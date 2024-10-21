@@ -1,0 +1,8 @@
+- soloDefinicionesSinLema.md (modificado), extraído del Diccionario de la RAE, 2014 - en formato EBUP:
+https://archive.org/details/realacademiaespanoladiccionariodelalenguaespanolaediciondeltricentenariorealacademiaespanola2014
+
+- sinonimos.json, extraído del proyecto "sinonimos" basado en el proyecto OpenThesaurus 
+https://github.com/edublancas/sinonimos/blob/master/sinonimos.json
+
+- 0_palabras_todas_no_conjugaciones.txt
+https://github.com/JorgeDuenasLerin/diccionario-espanol-txt
