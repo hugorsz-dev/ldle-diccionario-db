@@ -1,10 +1,10 @@
 #!/bin/bash
 # Dependencias de mlconjug3, un conjugador de verbos. 
-pip install scikit-learn==1.3.0;
+pip install mlconjug3;
 pip install pyyaml;
 pip install joblib;
 pip install defusedxml;
-pip install scikit-learn;
+pip install scikit-learn==1.3.0;
 
 # Separa soloDefinicionesSinLema.md -> definiciones (archivo binario separado por líneas)
 python exportarDiccionario.py;
