@@ -1,6 +1,6 @@
 #!/bin/bash
 # Dependencias de mlconjug3, un conjugador de verbos. 
-pip install mlconjug3;
+pip install scikit-learn==1.3.0;
 pip install pyyaml;
 pip install joblib;
 pip install defusedxml;
